@@ -1,0 +1,19 @@
+{
+    name: "camod",
+    repo: "Chaoticans-mindustry-modding-team/ca-mod",
+    minGameVersion: 143,
+    version: "135",
+    
+    displayName: "ca-mod",
+    author: "The Chaoticans",
+    subtitle: "Always check if updated!",
+    description:
+'''
+Mod for RPs
+
+Adds a shitload of stuff.
+'''
+    hideBrowser: false,
+    hidden: true,
+    dependencies: []
+}
